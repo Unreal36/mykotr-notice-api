@@ -25,10 +25,10 @@
   ],
   "webs":
   {   
-    "website": "https://www.mykotr.net/",
+    "panel": "https://www.mykotr.net",
+    "forum": "https://foruum.mykotr.net",
+    "discord": "https://discord.gg/h8hDt4p",
     "facebook": "https://www.facebook.com/gaming/MYKOTROFFICIAL",
-    "youtube": "https://www.youtube.com/c/SexyKO2",
-    "live": "https://trovo.live/SexyKOffical",
-    "discord": "https://discord.gg/h8hDt4p"
+    "youtube": "https://www.youtube.com/c/SexyKO2"
   }
 }
