@@ -2,11 +2,29 @@
   "title": "MYKOTR",
   "notices":
   [
-      "test 1",
-      "test 2"
+      {
+        "title": "Yeni Holy Gift Box - Kirdirilabilir Esya",
+        "url": "https://forum.oraclegamer.net/threads/296155"
+      },
+      {
+        "title": "Yeni Exceptional Hepas Box - Kirdirilabilir Esya",
+        "url": "https://forum.oraclegamer.net/threads/296153"
+      },
+      {
+        "title": "8vs8 Melee Birinci Turnuvasi Kazananlari Belirlendi",
+        "url": "https://forum.oraclegamer.net/threads/295702"
+      },
+      {
+        "title": "Automatic Fishing Droplari Guncellendi! (Oto fish)",
+        "url": "https://forum.oraclegamer.net/threads/295702"
+      },
+      {
+        "title": "16.01.2022 Guncelleme Notlari",
+        "url": "https://forum.oraclegamer.net/threads/295702"
+      }	  
   ],
   "webs":
-  {
+  {   
     "website": "https://www.mykotr.net/",
     "facebook": "https://www.facebook.com/gaming/MYKOTROFFICIAL",
     "youtube": "https://www.youtube.com/c/SexyKO2",
